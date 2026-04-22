@@ -1,5 +1,5 @@
 # Olá, Eu sou a Letícia! 
-👩🏻‍🎓 Estudo de Análise e Desenvolvimento de Sistemas na Fatec Americana, SP<br/><br/>
+👩🏻‍🎓 Estudo Análise e Desenvolvimento de Sistemas na Fatec Americana, SP<br/><br/>
 
 
 <!--GITHUB STATUS-->
