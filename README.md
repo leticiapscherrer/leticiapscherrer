@@ -34,4 +34,6 @@
 
 <!--CURRENTLY LEARNING-->
 # 🖥️ Aprendendo neste momento
-![DELPHI](https://img.shields.io/badge/delphi-%23E34F26.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![DELPHI](https://img.shields.io/badge/delphi-9B111E.svg?style=for-the-badge&logo=delphi&logoColor=white)
+![MYSQL](https://img.shields.io/badge/mysql-00496e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRE](https://img.shields.io/badge/postgresql-2f6792.svg?style=for-the-badge&logo=postgresql&logoColor=white)
