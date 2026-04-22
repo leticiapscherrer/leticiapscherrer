@@ -11,10 +11,9 @@
 
 <!--CONTACT-->
 # Contato
-
 <div>
   <!--Linkedin-->
-    <a href="https://www.linkedin.com/in/joão-gabriel-b-vidigal-9821592b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.linkedin.com/in/leticiascherrer05?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
 <br/>
